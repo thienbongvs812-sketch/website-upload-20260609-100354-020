@@ -1,0 +1,6 @@
+parsed_movies: 2000
+detail_pages: 2000
+category_pages: 10
+html_pages: 2014
+source_count: 20
+no_jpg_in_package: True
